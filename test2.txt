@@ -1,5 +1,8 @@
-
-blabla
-modif sur newb
-bloB33333ddblo
-blibli
+<!-- Author: Alexander Shvets (alex@githowto.com) -->
+<html>
+  <head>
+  </head>
+  <body>
+    <h1>Hello, World! </h1>
+  </body>
+</html>
